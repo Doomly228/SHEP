@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">shep</string>
+    <string name="title_account">Аккаунт</string>
+    <string name="title_myorders">Мои заказы</string>
+    <string name="title_orders">Заказы</string>
+    <string name="title_neworder">Добавить заказ</string>
+    <string name="title_support">Поддержка</string>
+    <string name="NewOrderScrool">Прокрутка</string>
+    <string name="NameOfNewOrder">Название</string>
+    <string name="DescriptionOfNewOrder">Описание</string>
+    <string name="CostOfNewOrder">Цена</string>
+</resources>
